@@ -1,0 +1,9 @@
+<testsuite failures="0" name="src/test/java/scrolltest/feature/vwo/Login.feature" skipped="0" tests="1" time="3.598165">
+  <testcase classname="src.test.java.scrolltest.feature.vwo.Login" name="VALID Login" time="3.598165">
+    <system-out>Given url 'https://app.vwo.com/login' ..................................... passed
+And request ............................................................... passed
+When method POST .......................................................... passed
+* def cookieValue = responseCookies ....................................... passed
+Then status 200 ........................................................... passed</system-out>
+  </testcase>
+</testsuite>
